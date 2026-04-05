@@ -114,7 +114,7 @@ The project follows a **Star Schema design** for optimized performance and scala
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashbord.png)
 
 ![schema](images/star.png)
 ---
