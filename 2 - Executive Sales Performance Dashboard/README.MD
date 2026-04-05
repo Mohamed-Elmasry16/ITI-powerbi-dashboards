@@ -124,7 +124,7 @@ The dashboard enables decision-makers to quickly monitor KPIs, analyze sales tre
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/executive-dashboard.png)
+![Dashboard](images/dashboard.png)
 ![Schema](images/star.png)
 
 ---
