@@ -31,8 +31,7 @@ $$OTP \% = \frac{CALCULATE(TotalFlights, ArrDelay \le 0)}{TotalFlights}$$
 
 ## 📂 Project Structure
 * `/Report`: Contains the `.pbix` file.
-* `/Documentation`: Star schema diagram and DAX library.
-* `/Screenshots`: High-resolution captures of the Dashboard and Drill-through pages.
+* `/images`: High-resolution captures of the Dashboard and Drill-through pages.
 
 ## 📸 Dashboard Preview
 
