@@ -37,8 +37,8 @@ $$OTP \% = \frac{CALCULATE(TotalFlights, ArrDelay \le 0)}{TotalFlights}$$
 
 | Main Dashboard | Detailed Drill-through |
 | :--- | :--- |
-| ![Dashboard Overview](images/dashboard.png)
-![Drill-through View](images/details.png) |
+![Dashboard Overview](images/dashboard.png)
+![Drill-through View](images/details.png) 
 
 ## 💡 Business Questions & Insights
 The dashboard is designed to answer critical operational questions for airline management:
