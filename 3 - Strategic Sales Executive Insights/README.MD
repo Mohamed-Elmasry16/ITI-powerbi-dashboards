@@ -64,7 +64,8 @@ Provides deeper insights into:
 ---
 
 ## 📸 Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard1.png)
+![Dashboard](images/dashboard2.png)
 ![Drillthrough](images/product-details.png)
 ![SCchema](images/star.png)
 
