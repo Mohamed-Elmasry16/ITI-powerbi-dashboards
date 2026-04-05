@@ -36,7 +36,6 @@ $$OTP \% = \frac{CALCULATE(TotalFlights, ArrDelay \le 0)}{TotalFlights}$$
 ## 📸 Dashboard Preview
 
 | Main Dashboard | Detailed Drill-through |
-| :--- | :--- |
 ![Dashboard Overview](images/dashboard.png)
 ![Drill-through View](images/details.png) 
 
